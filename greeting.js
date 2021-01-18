@@ -13,7 +13,7 @@ function handleSubmit(event){
 }
 
 function saveName(text){
-    localStorage.setItem(USER_LS, text);
+    localStorage.setItem(USER_LS,text);
 }
 
 function askForName() {
